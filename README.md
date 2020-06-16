@@ -1,8 +1,8 @@
-#初めてのGitHub
+# 初めてのGitHub
 TakayukiMatayoshi 又吉　敬之
 https://github.com/TakayukiMatayoshi/Sample.git
 
-##　ローカルリポジトリ
+## ローカルリポジトリ
 * お好み焼きレシピ
 　　　[okonomi.txt](okonomi.txt)
 
